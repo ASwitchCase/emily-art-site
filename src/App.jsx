@@ -70,7 +70,7 @@ function App() {
           </div>
         </div>
 
-        <h2>Gallary</h2>
+        <h2>Gallery</h2>
         <hr></hr>
         <div className='gal-container'>
           <SlideShow slides={art}></SlideShow>

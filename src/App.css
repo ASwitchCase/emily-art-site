@@ -11,14 +11,14 @@
 
 .top{
   height: 18vh;
-  width: 100vw;
+  width: 100%;
   background-color:rgb(247, 198, 198);
   box-shadow: 0px 0px 20px rgb(136, 136, 136);
 }
 
 .foot{
   height: 22vh;
-  width: 100vw;
+  width: 100%;
   background-color:rgb(244, 188, 188);
   box-shadow: 0px 0px 20px rgb(136, 136, 136);
 }
@@ -40,12 +40,12 @@ h3{
 .top h1{
   color: rgb(95, 49, 49);
   text-align: center;
-  font-size: 12vh;
+  font-size: 10vh;
   margin: 0px 0px;
   font-family: 'Brush Script MT', cursive;
   display: inline-block;
   vertical-align: top;
-  margin-left: 10%;
+  margin-left: 8%;
 }
 
 hr{
