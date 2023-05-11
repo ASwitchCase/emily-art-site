@@ -21,6 +21,7 @@ const SlideShow = (props) => {
         
         <div className='art-container'>
             <h1 className='art-caption'>{currentDisplay.name}</h1>
+            <h3 className='art-footer'>{currentDisplay.cap}</h3>
             <img className='slide-show-art' src={currentDisplay.img}></img>
         </div>
         <div className="selection-container">

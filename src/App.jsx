@@ -21,23 +21,23 @@ import helloProdigy from './images/hello-prodigy.png'
 import logo from './images/logo.png'
 
 const art = [
-  {id: 0, name:"Dear Sister,",img:dearSister},
-  {id: 1, name:"Dozing Off",img:dozingOff},
-  {id: 2, name:"Moving On",img:movingOn},
-  {id: 3, name:'Mom',img:mom},
-  {id: 4, name:'Purple Slumber',img:purpleSlumber},
-  {id: 5, name:'Roberts', img:roberts},
-  {id: 6, name:'The Commute', img: theCommute},
-  {id: 7, name:'Heads', img:heads},
+  {id: 0, cap:"Mixed media graphite,color pencil and marker, 11 by 7 ⅜ inch, 2019 ", name:"Dear Sister,",img:dearSister},
+  {id: 1, cap:"Mixed media graphite,color pencil and marker, 16 by 12 in., 2019", name:"Dozing Off",img:dozingOff},
+  {id: 2, cap:"Mixed media (graphite,color pencil and marker,) 16in by 12 in, 2019", name:"Moving On",img:movingOn},
+  {id: 3, cap:"(Marker, Magazine cut outs,) 13 ¼ by 10 inch, 2019", name:'Mom',img:mom},
+  {id: 4, cap:"Mixed media graphite,color pencil and marker, 16 by 12 in, 2019", name:'Purple Slumber',img:purpleSlumber},
+  {id: 5, cap:"Color pencil, 8 in by 5in, 2019", name:'Roberts', img:roberts},
+  {id: 6, cap:"Charcoal, 55 ¼ inches by 42 ⅛ inches, 2021", name:'The Commute', img: theCommute},
+  {id: 7, cap:" color pencil, 4 ½  by 6in, 2019", name:'Heads', img:heads},
   
 ];
 
 const cartoons = [
-  {id: 0, name:"March Comes in Like a Lion",img:march},
-  {id: 1, name:"Win Face",img:winFace},
-  {id: 2, name:"Give It Back!",img:giveItBack},
-  {id: 3, name:'BURP!',img:burp},
-  {id: 4, name:'Hello Prodigy',img:helloProdigy},
+  {id: 0, cap:"Ink pen ( Micron ) on bristol paper, 5 inch by 7 ¼ inch, 2020", name:"March Comes in Like a Lion",img:march},
+  {id: 1, cap:"Mixed media ink pen and color pencil, 11 by 7 inch., 2019 ", name:"Win Face",img:winFace},
+  {id: 2, cap:"Mixed media ( Micron ink pen, and marker,) 7 1/2 by 5 ½, 2019", name:"Give It Back!",img:giveItBack},
+  {id: 3, cap:"Mixed media ink pen and color pencil, 6 by 4 in, 2019", name:'BURP!',img:burp},
+  {id: 4, cap:"Mixed media ink pen and color pencil, 5 by 4 in, 2019", name:'Hello Prodigy',img:helloProdigy},
   
 ];
 
